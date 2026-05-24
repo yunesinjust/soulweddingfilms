@@ -85,14 +85,16 @@ export default function PortfolioGrid() {
                 onClick={() => setSelectedFilm(film)}
                 className="group text-left w-full"
               >
-                <div className="relative aspect-video overflow-hidden bg-gradient-to-br from-charcoal to-charcoal/80">
-                  {/* Subtle film-grain texture */}
-                  <div className="absolute inset-0 opacity-[0.03] bg-[radial-gradient(circle,_#fff_1px,_transparent_1px)] bg-[length:4px_4px]" />
+                <div className="relative aspect-video overflow-hidden bg-charcoal">
+                  {/* Large number */}
+                  <span className="absolute inset-0 flex items-center justify-center font-serif text-[8rem] md:text-[10rem] leading-none text-cream/10 select-none">
+                    {String(i + 1).padStart(2, "0")}
+                  </span>
                   {/* Play icon */}
                   <div className="absolute inset-0 flex items-center justify-center">
-                    <div className="w-16 h-16 rounded-full border-2 border-cream/40 flex items-center justify-center group-hover:border-cream/70 group-hover:scale-110 transition-all duration-300">
+                    <div className="w-14 h-14 rounded-full border border-cream/30 flex items-center justify-center group-hover:border-cream/60 group-hover:scale-110 transition-all duration-300">
                       <svg
-                        className="w-6 h-6 text-cream/60 ml-0.5 group-hover:text-cream transition-colors duration-300"
+                        className="w-5 h-5 text-cream/50 ml-0.5 group-hover:text-cream transition-colors duration-300"
                         fill="currentColor"
                         viewBox="0 0 20 20"
                       >
