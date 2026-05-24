@@ -310,11 +310,9 @@
     "datenschutz": "Datenschutz"
   },
   "impressum": {
-    "title": "Impressum",
-    "content": "TODO: Impressum-Inhalt hier einfügen. Nach deutschem Recht (§ 5 TMG) erforderlich.\n\nAngaben gemäß § 5 TMG:\n\n[Vollständiger Name]\n[Straße und Hausnummer]\n[PLZ und Ort]\n\nKontakt:\nTelefon: [Telefonnummer]\nE-Mail: [E-Mail-Adresse]\n\nUmsatzsteuer-ID:\nUmsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz:\n[USt-IdNr.]"
+    "title": "Impressum"
   },
   "datenschutz": {
-    "title": "Datenschutzerklärung",
-    "content": "TODO: Datenschutzerklärung hier einfügen. Nach deutschem Recht (DSGVO / BDSG) erforderlich.\n\nDiese Datenschutzerklärung klärt über die Art, den Umfang und Zweck der Verarbeitung personenbezogener Daten auf dieser Website auf."
+    "title": "Datenschutzerklärung"
   }
 }

@@ -310,11 +310,9 @@
     "datenschutz": "Privacy Policy"
   },
   "impressum": {
-    "title": "Legal Notice (Impressum)",
-    "content": "TODO: Add Impressum content here. Required by German law (§ 5 TMG).\n\nInformation according to § 5 TMG:\n\n[Full Name]\n[Street and Number]\n[Postal Code and City]\n\nContact:\nPhone: [Phone Number]\nEmail: [Email Address]\n\nVAT ID:\nVAT identification number according to § 27a of the Sales Tax Law:\n[VAT ID]"
+    "title": "Legal Notice (Impressum)"
   },
   "datenschutz": {
-    "title": "Privacy Policy (Datenschutz)",
-    "content": "TODO: Add privacy policy content here. Required by German law (GDPR / BDSG).\n\nThis privacy policy informs about the type, scope, and purpose of processing personal data on this website."
+    "title": "Privacy Policy (Datenschutz)"
   }
 }
