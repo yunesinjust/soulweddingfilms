@@ -21,7 +21,6 @@ type Film = {
   location: string;
   year: string;
   video: string;
-  coverImage: string;
 };
 
 export default function PortfolioGrid() {
@@ -86,18 +85,14 @@ export default function PortfolioGrid() {
                 onClick={() => setSelectedFilm(film)}
                 className="group text-left w-full"
               >
-                <div className="relative aspect-video overflow-hidden">
-                  <Image
-                    src={film.coverImage}
-                    alt={film.couple}
-                    fill
-                    className="object-cover transition-transform duration-700 group-hover:scale-105"
-                  />
-                  {/* Play icon overlay */}
-                  <div className="absolute inset-0 flex items-center justify-center bg-charcoal/20 group-hover:bg-charcoal/30 transition-colors">
-                    <div className="w-14 h-14 rounded-full bg-cream/90 flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
+                <div className="relative aspect-video overflow-hidden bg-gradient-to-br from-charcoal to-charcoal/80">
+                  {/* Subtle film-grain texture */}
+                  <div className="absolute inset-0 opacity-[0.03] bg-[radial-gradient(circle,_#fff_1px,_transparent_1px)] bg-[length:4px_4px]" />
+                  {/* Play icon */}
+                  <div className="absolute inset-0 flex items-center justify-center">
+                    <div className="w-16 h-16 rounded-full border-2 border-cream/40 flex items-center justify-center group-hover:border-cream/70 group-hover:scale-110 transition-all duration-300">
                       <svg
-                        className="w-5 h-5 text-charcoal ml-0.5"
+                        className="w-6 h-6 text-cream/60 ml-0.5 group-hover:text-cream transition-colors duration-300"
                         fill="currentColor"
                         viewBox="0 0 20 20"
                       >

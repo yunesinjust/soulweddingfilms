@@ -12,7 +12,7 @@
   },
   "hero": {
     "tagline": "Momente mit Seele.",
-    "cta": "Anfrage senden"
+    "cta": "Portfolio"
   },
   "home": {
     "introHeading": "Eure Geschichte, ehrlich erzählt.",
@@ -175,24 +175,21 @@
         "couple": "Burak & Su",
         "location": "Türkei",
         "year": "2023",
-        "video": "/videos/burak su 2.mp4",
-        "coverImage": "/images/portfolio/couple1/653615956_18095577353072570_7667656562791677331_n.jpg"
+        "video": "/videos/burak su 2.mp4"
       },
       {
         "slug": "eylul-mert",
         "couple": "Eylül & Mert",
         "location": "Türkei",
         "year": "2023",
-        "video": "/videos/eylul mert.mp4",
-        "coverImage": "/images/portfolio/couple3/SaveVid.Net_649607898_18067170428650169_7273847145288097803_n.jpg"
+        "video": "/videos/eylul mert.mp4"
       },
       {
         "slug": "sibel-soner",
         "couple": "Sibel & Soner",
         "location": "Türkei",
         "year": "2023",
-        "video": "/videos/sibel sonermp4.mp4",
-        "coverImage": "/images/portfolio/couple5/SaveVid.Net_648928689_17988956765777760_4258246177321032585_n.jpg"
+        "video": "/videos/sibel sonermp4.mp4"
       }
     ]
   },
