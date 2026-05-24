@@ -41,16 +41,12 @@ function AboutContent() {
             {/* Hesam — left */}
             <FadeIn>
               <div className="relative aspect-[3/4] md:aspect-auto md:h-full overflow-hidden">
-                {/* Placeholder until real photo is uploaded */}
-                <div className="absolute inset-0 bg-gradient-to-b from-charcoal/60 to-charcoal flex items-center justify-center">
-                  <div className="text-center">
-                    <div className="w-32 h-32 mx-auto mb-4 rounded-full bg-cream/10 flex items-center justify-center">
-                      <svg className="w-16 h-16 text-cream/30" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1}>
-                        <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0" />
-                      </svg>
-                    </div>
-                  </div>
-                </div>
+                <Image
+                  src="/images/about/hesam.PNG"
+                  alt="Hesam Shahbazi"
+                  fill
+                  className="object-cover"
+                />
                 <div className="absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-charcoal/90 to-transparent">
                   <p className="font-serif text-xl text-cream">{t("hesam")}</p>
                   <p className="text-sm text-cream/50">{t("hesamLocation")}</p>
@@ -73,16 +69,12 @@ function AboutContent() {
             {/* Yunes — right */}
             <FadeIn delay={400}>
               <div className="relative aspect-[3/4] md:aspect-auto md:h-full overflow-hidden">
-                {/* Placeholder until real photo is uploaded */}
-                <div className="absolute inset-0 bg-gradient-to-b from-charcoal/60 to-charcoal flex items-center justify-center">
-                  <div className="text-center">
-                    <div className="w-32 h-32 mx-auto mb-4 rounded-full bg-cream/10 flex items-center justify-center">
-                      <svg className="w-16 h-16 text-cream/30" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1}>
-                        <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0" />
-                      </svg>
-                    </div>
-                  </div>
-                </div>
+                <Image
+                  src="/images/about/yunes.jpg"
+                  alt="Yunes Nasr"
+                  fill
+                  className="object-cover"
+                />
                 <div className="absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-charcoal/90 to-transparent">
                   <p className="font-serif text-xl text-cream">{t("yunes")}</p>
                   <p className="text-sm text-cream/50">{t("yunesLocation")}</p>
