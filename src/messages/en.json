@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "title": "SoulWeddingFilms — Wedding Videography from Cologne",
+    "description": "Wedding videography & photography with soul. We capture your most beautiful moments — authentic, cinematic, full of emotion. From Cologne, for all of NRW and beyond."
+  },
+  "nav": {
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Moments with soul.",
+    "cta": "Get in touch"
+  },
+  "home": {
+    "introHeading": "Your story, honestly told.",
+    "intro": "I believe the most beautiful moments are the real ones — a stolen glance, a quiet smile, tears of joy. My goal is to capture your wedding the way it truly felt: alive, honest, and full of love.",
+    "featuredHeading": "Featured work",
+    "featuredCta": "View all",
+    "ctaHeading": "Ready to tell your story?",
+    "ctaText": "Every love is unique — and your film should be too. Reach out and tell me about your special day.",
+    "ctaButton": "Get in touch"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "description": "A selection of our wedding films and photography.",
+    "backToPortfolio": "Back to portfolio",
+    "photosSection": "Photos",
+    "filmsSection": "Films",
+    "photos": "Photos",
+    "playFilm": "Play film",
+    "weddings": [
+      {
+        "slug": "sofia-and-luca",
+        "couple": "Sofia & Luca",
+        "location": "Izmir",
+        "year": "2023",
+        "coverImage": "/images/portfolio/couple1/653615956_18095577353072570_7667656562791677331_n.jpg",
+        "description": "A dreamy wedding in the beautiful coastal city of Izmir.",
+        "images": [
+          "/images/portfolio/couple1/653615956_18095577353072570_7667656562791677331_n.jpg",
+          "/images/portfolio/couple1/SaveVid.Net_650343835_18007021715845132_7301546106534432243_n.jpg",
+          "/images/portfolio/couple1/SaveVid.Net_651028644_17975197886840190_383960243469899168_n.jpg",
+          "/images/portfolio/couple1/SaveVid.Net_651925576_18093360697875748_8190268009892396447_n.jpg",
+          "/images/portfolio/couple1/SaveVid.Net_652150711_18075784853387584_7905608917593755616_n.jpg",
+          "/images/portfolio/couple1/SaveVid.Net_654867267_18103839223700947_4567288559891865675_n.jpg",
+          "/images/portfolio/couple1/SaveVid.Net_658966383_18225802777311987_5086488240750907312_n.jpg",
+          "/images/portfolio/couple1/SaveVid.Net_663236292_18583127764014347_3042887135364172993_n.jpg"
+        ]
+      },
+      {
+        "slug": "mia-and-noah",
+        "couple": "Mia & Noah",
+        "location": "Istanbul",
+        "year": "2024",
+        "coverImage": "/images/portfolio/couple2/655232474_18100197164501104_1742626033673695152_n.jpg",
+        "description": "A romantic wedding in the fascinating metropolis of Istanbul.",
+        "images": [
+          "/images/portfolio/couple2/655232474_18100197164501104_1742626033673695152_n.jpg",
+          "/images/portfolio/couple2/SaveVid.Net_649223216_18001730222883796_2275885820387297482_n.jpg",
+          "/images/portfolio/couple2/SaveVid.Net_652813513_18098724613986406_8486073380711980012_n.jpg",
+          "/images/portfolio/couple2/SaveVid.Net_652849596_18080617544367026_7943325311091846081_n.jpg",
+          "/images/portfolio/couple2/SaveVid.Net_653689699_18104086210713123_9150533174489832337_n.jpg",
+          "/images/portfolio/couple2/SaveVid.Net_655232474_18100197164501104_1742626033673695152_n.jpg",
+          "/images/portfolio/couple2/SaveVid.Net_656595348_18102304768933507_1367445921682288031_n.jpg"
+        ]
+      },
+      {
+        "slug": "leila-and-cem",
+        "couple": "Leila & Cem",
+        "location": "Izmir",
+        "year": "2023",
+        "coverImage": "/images/portfolio/couple3/SaveVid.Net_649607898_18067170428650169_7273847145288097803_n.jpg",
+        "description": "A beautiful celebration full of love and tradition in Izmir.",
+        "images": [
+          "/images/portfolio/couple3/SaveVid.Net_649607898_18067170428650169_7273847145288097803_n.jpg",
+          "/images/portfolio/couple3/SaveVid.Net_651402310_18075989300132313_55303328719033995_n.jpg",
+          "/images/portfolio/couple3/SaveVid.Net_652090067_18124842064585914_5064676865404722562_n.jpg",
+          "/images/portfolio/couple3/SaveVid.Net_652766813_18095386415009691_2581589354678976253_n.jpg",
+          "/images/portfolio/couple3/SaveVid.Net_652771618_18082877456374907_4141063798380153723_n.jpg",
+          "/images/portfolio/couple3/SaveVid.Net_653434787_18140276524494899_3754465405549846941_n.jpg",
+          "/images/portfolio/couple3/SaveVid.Net_654423362_18124820377572945_8743580519830638532_n.jpg",
+          "/images/portfolio/couple3/SaveVid.Net_658829413_18404893459196091_8541583380094364585_n.jpg",
+          "/images/portfolio/couple3/SaveVid.Net_669700406_18418123015130334_8062027815667475737_n.jpg"
+        ]
+      },
+      {
+        "slug": "sara-and-ali",
+        "couple": "Sara & Ali",
+        "location": "Izmir",
+        "year": "2024",
+        "coverImage": "/images/portfolio/couple4/SaveVid.Net_649738041_18102883505494945_2060630682092193998_n.jpg",
+        "description": "An elegant summer wedding with breathtaking views over Izmir.",
+        "images": [
+          "/images/portfolio/couple4/SaveVid.Net_649738041_18102883505494945_2060630682092193998_n.jpg",
+          "/images/portfolio/couple4/SaveVid.Net_649973443_18021731204805984_3544636214257346466_n.jpg",
+          "/images/portfolio/couple4/SaveVid.Net_651906481_18099152891511399_3245205490250659365_n.jpg",
+          "/images/portfolio/couple4/SaveVid.Net_652968678_18096731435475095_5367470391824648378_n.jpg",
+          "/images/portfolio/couple4/SaveVid.Net_654014759_18084664799253382_3463596499537653552_n.jpg",
+          "/images/portfolio/couple4/SaveVid.Net_654248780_18093275120115700_7130699837374502152_n.jpg",
+          "/images/portfolio/couple4/SaveVid.Net_654725813_18079216778100108_5896745733724204601_n.jpg",
+          "/images/portfolio/couple4/SaveVid.Net_655214929_18168533941408375_1733899256491292785_n.jpg"
+        ]
+      },
+      {
+        "slug": "hana-and-kerem",
+        "couple": "Hana & Kerem",
+        "location": "Istanbul",
+        "year": "2023",
+        "coverImage": "/images/portfolio/couple5/SaveVid.Net_648928689_17988956765777760_4258246177321032585_n.jpg",
+        "description": "A magical wedding in Istanbul — full of emotions and unforgettable moments.",
+        "images": [
+          "/images/portfolio/couple5/SaveVid.Net_648928689_17988956765777760_4258246177321032585_n.jpg",
+          "/images/portfolio/couple5/SaveVid.Net_649823106_18078912146456882_8122475854086043304_n.jpg",
+          "/images/portfolio/couple5/SaveVid.Net_650678479_18054804839686699_3265124128777470806_n.jpg",
+          "/images/portfolio/couple5/SaveVid.Net_651003759_18014449304668464_6381636459582699799_n.jpg",
+          "/images/portfolio/couple5/SaveVid.Net_651067442_18056508740696094_6649098760126426026_n.jpg",
+          "/images/portfolio/couple5/SaveVid.Net_651914782_18061107392349471_3921259645139575875_n.jpg",
+          "/images/portfolio/couple5/SaveVid.Net_655168384_18155943526442979_1671522470978709039_n.jpg",
+          "/images/portfolio/couple5/SaveVid.Net_655273896_18111490699688822_2271364032359323522_n.jpg",
+          "/images/portfolio/couple5/SaveVid.Net_659107758_18581815429042384_8267687000547863965_n.jpg",
+          "/images/portfolio/couple5/SaveVid.Net_662308384_18450724669108048_6755697286489670468_n.jpg"
+        ]
+      },
+      {
+        "slug": "nora-and-yusuf",
+        "couple": "Nora & Yusuf",
+        "location": "Izmir",
+        "year": "2024",
+        "coverImage": "/images/portfolio/couple7/SaveVid.Net_650055334_18038564036773796_8791427131723365248_n.jpg",
+        "description": "An intimate and heartfelt celebration in the sunny Aegean.",
+        "images": [
+          "/images/portfolio/couple7/SaveVid.Net_650055334_18038564036773796_8791427131723365248_n.jpg",
+          "/images/portfolio/couple7/SaveVid.Net_651041477_18052942631710356_6840753625087102752_n.jpg",
+          "/images/portfolio/couple7/SaveVid.Net_654454235_18196971289350384_5860418975502193315_n.jpg",
+          "/images/portfolio/couple7/SaveVid.Net_655505809_18206986513329513_8048192671773020750_n.jpg",
+          "/images/portfolio/couple7/SaveVid.Net_656012919_18149695234460368_8110894268132300898_n.jpg",
+          "/images/portfolio/couple7/SaveVid.Net_657389968_18336463288169582_7760202667359527518_n.jpg",
+          "/images/portfolio/couple7/SaveVid.Net_657600196_18386463712080392_5345371188114151484_n.jpg",
+          "/images/portfolio/couple7/SaveVid.Net_660834266_18435179197140373_4093572194159530435_n.jpg",
+          "/images/portfolio/couple7/SaveVid.Net_671122797_18581118958042794_6276728410288330645_n.jpg"
+        ]
+      },
+      {
+        "slug": "lena-and-baran",
+        "couple": "Lena & Baran",
+        "location": "Izmir",
+        "year": "2023",
+        "coverImage": "/images/portfolio/couple8/SaveVid.Net_648754418_17982286670972941_3820716768286744268_n.jpg",
+        "description": "An unforgettable wedding with beautiful light and genuine emotions.",
+        "images": [
+          "/images/portfolio/couple8/SaveVid.Net_648754418_17982286670972941_3820716768286744268_n.jpg",
+          "/images/portfolio/couple8/SaveVid.Net_650999294_18081418547582766_9034791945284700473_n.jpg",
+          "/images/portfolio/couple8/SaveVid.Net_651054827_18097653761481042_6325405836096308808_n.jpg",
+          "/images/portfolio/couple8/SaveVid.Net_651357512_18105277618859532_6589041662827945914_n.jpg",
+          "/images/portfolio/couple8/SaveVid.Net_651488762_18082708616034798_940989205506996305_n.jpg",
+          "/images/portfolio/couple8/SaveVid.Net_651922270_18098829184782089_8530109852524264244_n.jpg",
+          "/images/portfolio/couple8/SaveVid.Net_652114458_18097658806951552_7990321278260938996_n.jpg",
+          "/images/portfolio/couple8/SaveVid.Net_652742377_18071005793242233_8368110421310607652_n.jpg",
+          "/images/portfolio/couple8/SaveVid.Net_652771445_18108751051794927_5270142892642046128_n.jpg",
+          "/images/portfolio/couple8/SaveVid.Net_653415896_18098060995777463_5714286340135294399_n.jpg",
+          "/images/portfolio/couple8/SaveVid.Net_655570947_18076943405393731_7975839854031744419_n.jpg",
+          "/images/portfolio/couple8/SaveVid.Net_656350097_18541738225067900_9061169202443916001_n.jpg",
+          "/images/portfolio/couple8/SaveVid.Net_662818964_18571517932045107_7047496690716608125_n.jpg",
+          "/images/portfolio/couple8/SaveVid.Net_669687915_18121585345554933_7983925686090160725_n.jpg",
+          "/images/portfolio/couple8/SaveVid.Net_670623038_18139476511501584_7028122953133760152_n.jpg"
+        ]
+      }
+    ],
+    "films": [
+      {
+        "slug": "burak-su",
+        "couple": "Burak & Su",
+        "location": "Turkey",
+        "year": "2023",
+        "video": "/videos/burak su 2.mp4",
+        "coverImage": "/images/portfolio/couple1/653615956_18095577353072570_7667656562791677331_n.jpg"
+      },
+      {
+        "slug": "eylul-mert",
+        "couple": "Eylül & Mert",
+        "location": "Turkey",
+        "year": "2023",
+        "video": "/videos/eylul mert.mp4",
+        "coverImage": "/images/portfolio/couple3/SaveVid.Net_649607898_18067170428650169_7273847145288097803_n.jpg"
+      },
+      {
+        "slug": "sibel-soner",
+        "couple": "Sibel & Soner",
+        "location": "Turkey",
+        "year": "2023",
+        "video": "/videos/sibel sonermp4.mp4",
+        "coverImage": "/images/portfolio/couple5/SaveVid.Net_648928689_17988956765777760_4258246177321032585_n.jpg"
+      }
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "description": "Every wedding is unique. That's why I offer three carefully curated packages — so you get exactly what fits you and your day.",
+    "popular": "Popular",
+    "includes": "What's included",
+    "startingAt": "from",
+    "packages": [
+      {
+        "name": "Liebe",
+        "tagline": "For intimate moments.",
+        "price": "1,690",
+        "features": [
+          "6 hours coverage",
+          "1 highlight film (3–5 min)",
+          "1 social reel (60 sec)",
+          "50 fully edited photos",
+          "Online gallery",
+          "Delivery in 3 weeks"
+        ]
+      },
+      {
+        "name": "Herz",
+        "tagline": "For the whole day.",
+        "price": "2,490",
+        "popular": true,
+        "features": [
+          "10 hours coverage",
+          "1 highlight film (5–7 min)",
+          "2 social reels (60 sec each)",
+          "100 fully edited photos",
+          "Drone footage",
+          "Online gallery",
+          "Delivery in 3 weeks"
+        ]
+      },
+      {
+        "name": "Seele",
+        "tagline": "The full experience.",
+        "price": "3,790",
+        "features": [
+          "12+ hours coverage",
+          "1 cinematic film (5–7 min)",
+          "Same-day teaser (within 48 hours)",
+          "3 social reels (60 sec each)",
+          "Ceremony + speeches film (separate)",
+          "200 fully edited photos",
+          "Drone footage",
+          "Second shooter",
+          "Online gallery + USB stick in wooden box",
+          "Delivery in 3 weeks"
+        ]
+      }
+    ],
+    "addonsTitle": "Extras & Add-ons",
+    "addonsDescription": "Want to add something extra? No problem — these options can be added to any package.",
+    "addons": [
+      { "name": "Extra hour", "price": "+€150" },
+      { "name": "Save-the-Date video", "price": "+€400" },
+      { "name": "Second shooter (for Liebe & Herz)", "price": "+€500" },
+      { "name": "Printed photo album", "price": "from €350" }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "greeting": "Hey, I'm [Your Name].",
+    "story": "TODO: Add your personal story here. Tell how you got into wedding videography, what drives you, and why you love what you do. Write in the first person, warm and personal — the way you'd talk to a couple over coffee.",
+    "philosophyHeading": "My approach",
+    "philosophy": "I believe the best wedding films aren't staged — they happen when you capture the real moments. My approach is discreet and natural. I stay close, but never in the way. The result? Films that feel real and that you'll watch over and over again.",
+    "statsWeddings": "65+ weddings",
+    "statsExperience": "2 years experience",
+    "statsLocation": "Cologne / NRW",
+    "statsOrigin": "Originally from Turkey",
+    "trustHeading": "Good to know",
+    "trustDrone": "Certified drone pilot (A1/A3 license)",
+    "trustSecond": "Works with a second shooter when needed",
+    "trustGear": "Professional camera & audio equipment"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Tell me about your big day. I'd love to hear from you!",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "date": "Wedding date",
+      "location": "Venue",
+      "locationPlaceholder": "e.g. Schloss Bensberg, Cologne",
+      "package": "Package interest",
+      "packageOptions": {
+        "placeholder": "Please select",
+        "liebe": "Liebe — €1,690",
+        "herz": "Herz — €2,490",
+        "seele": "Seele — €3,790",
+        "unsure": "Not sure yet"
+      },
+      "message": "Message",
+      "messagePlaceholder": "Tell me about your day, your vision, and what matters most to you ...",
+      "submit": "Send inquiry",
+      "sending": "Sending ...",
+      "success": "Thank you for your message! I'll get back to you as soon as possible.",
+      "error": "Something went wrong. Please try again or email me directly."
+    },
+    "directContact": "Or reach out directly",
+    "email": "yunesyousefi35@gmail.com",
+    "instagram": "@TODO_instagram"
+  },
+  "footer": {
+    "tagline": "Wedding videography & photography from Cologne",
+    "copyright": "© {year} SoulWeddingFilms. All rights reserved.",
+    "impressum": "Legal Notice",
+    "datenschutz": "Privacy Policy"
+  },
+  "impressum": {
+    "title": "Legal Notice (Impressum)",
+    "content": "TODO: Add Impressum content here. Required by German law (§ 5 TMG).\n\nInformation according to § 5 TMG:\n\n[Full Name]\n[Street and Number]\n[Postal Code and City]\n\nContact:\nPhone: [Phone Number]\nEmail: [Email Address]\n\nVAT ID:\nVAT identification number according to § 27a of the Sales Tax Law:\n[VAT ID]"
+  },
+  "datenschutz": {
+    "title": "Privacy Policy (Datenschutz)",
+    "content": "TODO: Add privacy policy content here. Required by German law (GDPR / BDSG).\n\nThis privacy policy informs about the type, scope, and purpose of processing personal data on this website."
+  }
+}
