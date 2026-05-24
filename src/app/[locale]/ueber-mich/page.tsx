@@ -29,37 +29,65 @@ function AboutContent() {
     { value: t("statsWeddings") },
     { value: t("statsExperience") },
     { value: t("statsLocation") },
-    { value: t("statsOrigin") },
+    { value: t("statsArea") },
   ];
 
   return (
     <section className="pt-28 pb-24 md:pb-32">
       <div className="max-w-7xl mx-auto px-6 lg:px-12">
-        {/* Hero section with photo and greeting */}
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 mb-24">
-          {/* Photo */}
-          <FadeIn>
-            <div className="relative aspect-[4/5] overflow-hidden">
-              <Image
-                src="/images/portfolio/couple4/SaveVid.Net_654014759_18084664799253382_3463596499537653552_n.jpg"
-                alt="Photographer portrait"
-                fill
-                className="object-cover"
-              />
-            </div>
-          </FadeIn>
-
-          {/* Story */}
-          <div className="flex flex-col justify-center">
-            <FadeIn delay={200}>
-              <h1 className="font-serif text-4xl md:text-5xl text-charcoal mb-8">
-                {t("greeting")}
-              </h1>
+        {/* Team Hero — inspired by reference image */}
+        <div className="bg-charcoal rounded-sm overflow-hidden mb-24">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-0">
+            {/* Hesam — left */}
+            <FadeIn>
+              <div className="relative aspect-[3/4] md:aspect-auto md:h-full overflow-hidden">
+                {/* Placeholder until real photo is uploaded */}
+                <div className="absolute inset-0 bg-gradient-to-b from-charcoal/60 to-charcoal flex items-center justify-center">
+                  <div className="text-center">
+                    <div className="w-32 h-32 mx-auto mb-4 rounded-full bg-cream/10 flex items-center justify-center">
+                      <svg className="w-16 h-16 text-cream/30" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1}>
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0" />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-charcoal/90 to-transparent">
+                  <p className="font-serif text-xl text-cream">{t("hesam")}</p>
+                  <p className="text-sm text-cream/50">{t("hesamLocation")}</p>
+                </div>
+              </div>
             </FadeIn>
-            <FadeIn delay={300}>
-              <p className="text-charcoal/70 text-lg leading-relaxed whitespace-pre-line">
-                {t("story")}
-              </p>
+
+            {/* Center text */}
+            <FadeIn delay={200}>
+              <div className="flex flex-col items-center justify-center text-center px-8 py-16 md:py-0">
+                <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl text-cream font-light leading-tight mb-8">
+                  {t("teamHeading")}
+                </h1>
+                <p className="text-cream/60 text-sm md:text-base leading-relaxed max-w-xs">
+                  {t("teamSubtext")}
+                </p>
+              </div>
+            </FadeIn>
+
+            {/* Yunes — right */}
+            <FadeIn delay={400}>
+              <div className="relative aspect-[3/4] md:aspect-auto md:h-full overflow-hidden">
+                {/* Placeholder until real photo is uploaded */}
+                <div className="absolute inset-0 bg-gradient-to-b from-charcoal/60 to-charcoal flex items-center justify-center">
+                  <div className="text-center">
+                    <div className="w-32 h-32 mx-auto mb-4 rounded-full bg-cream/10 flex items-center justify-center">
+                      <svg className="w-16 h-16 text-cream/30" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1}>
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0" />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-charcoal/90 to-transparent">
+                  <p className="font-serif text-xl text-cream">{t("yunes")}</p>
+                  <p className="text-sm text-cream/50">{t("yunesLocation")}</p>
+                </div>
+              </div>
             </FadeIn>
           </div>
         </div>
@@ -98,7 +126,7 @@ function AboutContent() {
               {t("trustHeading")}
             </h3>
             <div className="space-y-4">
-              {[t("trustDrone"), t("trustSecond"), t("trustGear")].map(
+              {[t("trustDrone"), t("trustTeam"), t("trustGear")].map(
                 (item) => (
                   <div key={item} className="flex items-start gap-4">
                     <svg

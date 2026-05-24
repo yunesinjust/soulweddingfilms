@@ -50,9 +50,9 @@ function DatenschutzDE() {
             Wer ist verantwortlich für die Datenerfassung auf dieser Website?
           </strong>
           <br />
-          Die Datenverarbeitung auf dieser Website erfolgt durch den
-          Websitebetreiber: Yunes Yousefi, Köln, Deutschland. E-Mail:
-          yunesyousefi35@gmail.com
+          Die Datenverarbeitung auf dieser Website erfolgt durch die
+          Websitebetreiber: Yunes Nasr & Hesam Shahbazi, SoulWeddingFilms GbR,
+          Köln & Düsseldorf, Deutschland. E-Mail: yunesyousefi35@gmail.com
         </p>
         <p>
           <strong>Wie erfassen wir Ihre Daten?</strong>
@@ -117,9 +117,11 @@ function DatenschutzDE() {
           Verantwortliche Stelle für die Datenverarbeitung auf dieser Website:
         </p>
         <p>
-          Yunes Yousefi
+          Yunes Nasr & Hesam Shahbazi
           <br />
-          Köln, Deutschland
+          SoulWeddingFilms GbR
+          <br />
+          Köln & Düsseldorf, Deutschland
           <br />
           E-Mail: yunesyousefi35@gmail.com
         </p>
@@ -277,8 +279,8 @@ function DatenschutzEN() {
           </strong>
           <br />
           Data processing on this website is carried out by the website
-          operator: Yunes Yousefi, Cologne, Germany. Email:
-          yunesyousefi35@gmail.com
+          operators: Yunes Nasr & Hesam Shahbazi, SoulWeddingFilms GbR,
+          Cologne & Düsseldorf, Germany. Email: yunesyousefi35@gmail.com
         </p>
         <p>
           <strong>How do we collect your data?</strong>
@@ -328,9 +330,11 @@ function DatenschutzEN() {
           The responsible party for data processing on this website is:
         </p>
         <p>
-          Yunes Yousefi
+          Yunes Nasr & Hesam Shahbazi
           <br />
-          Cologne, Germany
+          SoulWeddingFilms GbR
+          <br />
+          Cologne & Düsseldorf, Germany
           <br />
           Email: yunesyousefi35@gmail.com
         </p>

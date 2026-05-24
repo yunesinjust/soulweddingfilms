@@ -1,13 +1,13 @@
 {
   "meta": {
-    "title": "SoulWeddingFilms — Wedding Videography from Cologne",
-    "description": "Wedding videography & photography with soul. We capture your most beautiful moments — authentic, cinematic, full of emotion. From Cologne, for all of NRW and beyond."
+    "title": "SoulWeddingFilms — Wedding Videography Cologne & Düsseldorf",
+    "description": "Wedding videography & photography with soul. We capture your most beautiful moments — authentic, cinematic, full of emotion. Cologne & Düsseldorf | NRW & Germany."
   },
   "nav": {
     "home": "Home",
     "portfolio": "Portfolio",
     "services": "Services",
-    "about": "About",
+    "about": "About us",
     "contact": "Contact"
   },
   "hero": {
@@ -16,11 +16,11 @@
   },
   "home": {
     "introHeading": "Your story, honestly told.",
-    "intro": "I believe the most beautiful moments are the real ones — a stolen glance, a quiet smile, tears of joy. My goal is to capture your wedding the way it truly felt: alive, honest, and full of love.",
+    "intro": "We believe the most beautiful moments are the real ones — a stolen glance, a quiet smile, tears of joy. Our goal is to capture your wedding the way it truly felt: alive, honest, and full of love. We are based in Cologne and Düsseldorf and travel throughout Germany.",
     "featuredHeading": "Featured work",
     "featuredCta": "View all",
     "ctaHeading": "Ready to tell your story?",
-    "ctaText": "Every love is unique — and your film should be too. Reach out and tell me about your special day.",
+    "ctaText": "Every love is unique — and your film should be too. Reach out and tell us about your special day.",
     "ctaButton": "Get in touch"
   },
   "portfolio": {
@@ -195,7 +195,7 @@
   },
   "services": {
     "title": "Services",
-    "description": "Every wedding is unique. That's why I offer three carefully curated packages — so you get exactly what fits you and your day.",
+    "description": "Every wedding is unique. That's why we offer three carefully curated packages — so you get exactly what fits you and your day.",
     "popular": "Popular",
     "includes": "What's included",
     "startingAt": "from",
@@ -256,23 +256,27 @@
     ]
   },
   "about": {
-    "title": "About me",
-    "greeting": "Hey, I'm [Your Name].",
-    "story": "TODO: Add your personal story here. Tell how you got into wedding videography, what drives you, and why you love what you do. Write in the first person, warm and personal — the way you'd talk to a couple over coffee.",
-    "philosophyHeading": "My approach",
-    "philosophy": "I believe the best wedding films aren't staged — they happen when you capture the real moments. My approach is discreet and natural. I stay close, but never in the way. The result? Films that feel real and that you'll watch over and over again.",
+    "title": "About us",
+    "teamHeading": "We are a team",
+    "teamSubtext": "Specialised in wedding film & photography. Together we capture your most beautiful day — authentic, emotional and unforgettable.",
+    "hesam": "Hesam Shahbazi",
+    "hesamLocation": "Cologne",
+    "yunes": "Yunes Nasr",
+    "yunesLocation": "Düsseldorf",
+    "philosophyHeading": "Our approach",
+    "philosophy": "We believe the best wedding films aren't staged — they happen when you capture the real moments. Our approach is discreet and natural. We stay close, but never in the way. The result? Films that feel real and that you'll watch over and over again.",
     "statsWeddings": "65+ weddings",
-    "statsExperience": "2 years experience",
-    "statsLocation": "Cologne / NRW",
-    "statsOrigin": "Originally from Turkey",
+    "statsExperience": "2+ years experience",
+    "statsLocation": "Cologne & Düsseldorf",
+    "statsArea": "NRW & Germany",
     "trustHeading": "Good to know",
     "trustDrone": "Certified drone pilot (A1/A3 license)",
-    "trustSecond": "Works with a second shooter when needed",
+    "trustTeam": "Two experienced filmmakers as a team",
     "trustGear": "Professional camera & audio equipment"
   },
   "contact": {
     "title": "Contact",
-    "description": "Tell me about your big day. I'd love to hear from you!",
+    "description": "Tell us about your big day. We'd love to hear from you!",
     "form": {
       "name": "Name",
       "namePlaceholder": "Your name",
@@ -290,18 +294,18 @@
         "unsure": "Not sure yet"
       },
       "message": "Message",
-      "messagePlaceholder": "Tell me about your day, your vision, and what matters most to you ...",
+      "messagePlaceholder": "Tell us about your day, your vision, and what matters most to you ...",
       "submit": "Send inquiry",
       "sending": "Sending ...",
-      "success": "Thank you for your message! I'll get back to you as soon as possible.",
-      "error": "Something went wrong. Please try again or email me directly."
+      "success": "Thank you for your message! We'll get back to you as soon as possible.",
+      "error": "Something went wrong. Please try again or email us directly."
     },
-    "directContact": "Or reach out directly",
+    "directContact": "Or reach out to us directly",
     "email": "yunesyousefi35@gmail.com",
     "instagram": "@TODO_instagram"
   },
   "footer": {
-    "tagline": "Wedding videography & photography from Cologne",
+    "tagline": "Wedding videography & photography — Cologne & Düsseldorf",
     "copyright": "© {year} SoulWeddingFilms. All rights reserved.",
     "impressum": "Legal Notice",
     "datenschutz": "Privacy Policy"

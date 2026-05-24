@@ -1,13 +1,13 @@
 {
   "meta": {
-    "title": "SoulWeddingFilms — Hochzeitsvideografie aus Köln",
-    "description": "Hochzeitsvideografie & Fotografie mit Seele. Wir halten eure schönsten Momente fest — authentisch, cineastisch, voller Emotionen. Aus Köln, für ganz NRW und darüber hinaus."
+    "title": "SoulWeddingFilms — Hochzeitsvideografie Köln & Düsseldorf",
+    "description": "Hochzeitsvideografie & Fotografie mit Seele. Wir halten eure schönsten Momente fest — authentisch, cineastisch, voller Emotionen. Köln & Düsseldorf | NRW & Deutschland."
   },
   "nav": {
     "home": "Start",
     "portfolio": "Portfolio",
     "services": "Leistungen",
-    "about": "Über mich",
+    "about": "Über uns",
     "contact": "Kontakt"
   },
   "hero": {
@@ -16,11 +16,11 @@
   },
   "home": {
     "introHeading": "Eure Geschichte, ehrlich erzählt.",
-    "intro": "Ich bin davon überzeugt, dass die schönsten Momente die echten sind — ein verstohlener Blick, ein stilles Lächeln, Freudentränen. Mein Ziel ist es, eure Hochzeit so festzuhalten, wie sie sich wirklich angefühlt hat: lebendig, ehrlich und voller Liebe.",
+    "intro": "Wir sind davon überzeugt, dass die schönsten Momente die echten sind — ein verstohlener Blick, ein stilles Lächeln, Freudentränen. Unser Ziel ist es, eure Hochzeit so festzuhalten, wie sie sich wirklich angefühlt hat: lebendig, ehrlich und voller Liebe. Wir sind in Köln und Düsseldorf ansässig und reisen deutschlandweit.",
     "featuredHeading": "Ausgewählte Arbeiten",
     "featuredCta": "Alle ansehen",
     "ctaHeading": "Bereit, eure Geschichte zu erzählen?",
-    "ctaText": "Jede Liebe ist einzigartig — und genau so sollte auch euer Film sein. Schreibt mir und erzählt mir von eurem Tag.",
+    "ctaText": "Jede Liebe ist einzigartig — und genau so sollte auch euer Film sein. Schreibt uns und erzählt uns von eurem Tag.",
     "ctaButton": "Anfrage senden"
   },
   "portfolio": {
@@ -195,7 +195,7 @@
   },
   "services": {
     "title": "Leistungen",
-    "description": "Jede Hochzeit ist einzigartig. Deshalb biete ich drei sorgfältig zusammengestellte Pakete an — damit ihr genau das bekommt, was zu euch und eurem Tag passt.",
+    "description": "Jede Hochzeit ist einzigartig. Deshalb bieten wir drei sorgfältig zusammengestellte Pakete an — damit ihr genau das bekommt, was zu euch und eurem Tag passt.",
     "popular": "Beliebt",
     "includes": "Was enthalten ist",
     "startingAt": "ab",
@@ -256,23 +256,27 @@
     ]
   },
   "about": {
-    "title": "Über mich",
-    "greeting": "Moin, ich bin [Dein Name].",
-    "story": "TODO: Hier kommt deine persönliche Geschichte hin. Erzähl, wie du zur Hochzeitsvideografie gekommen bist, was dich antreibt und warum du liebst, was du tust. Schreib in der ersten Person, warm und persönlich — so, wie du auch mit einem Brautpaar bei einem Kaffee sprechen würdest.",
-    "philosophyHeading": "Meine Herangehensweise",
-    "philosophy": "Ich glaube, dass die besten Hochzeitsfilme nicht inszeniert werden — sie entstehen, wenn man die echten Momente einfängt. Mein Ansatz ist diskret und natürlich. Ich bin nah dran, aber nie im Weg. So entstehen Filme, die sich echt anfühlen und die ihr euch immer wieder anschauen werdet.",
+    "title": "Über uns",
+    "teamHeading": "Wir sind ein Team",
+    "teamSubtext": "Spezialisiert auf Hochzeitsfilm & Fotografie. Gemeinsam begleiten wir euren schönsten Tag — authentisch, emotional und unvergesslich.",
+    "hesam": "Hesam Shahbazi",
+    "hesamLocation": "Köln",
+    "yunes": "Yunes Nasr",
+    "yunesLocation": "Düsseldorf",
+    "philosophyHeading": "Unsere Herangehensweise",
+    "philosophy": "Wir glauben, dass die besten Hochzeitsfilme nicht inszeniert werden — sie entstehen, wenn man die echten Momente einfängt. Unser Ansatz ist diskret und natürlich. Wir sind nah dran, aber nie im Weg. So entstehen Filme, die sich echt anfühlen und die ihr euch immer wieder anschauen werdet.",
     "statsWeddings": "65+ Hochzeiten",
-    "statsExperience": "2 Jahre Erfahrung",
-    "statsLocation": "Köln / NRW",
-    "statsOrigin": "Ursprünglich aus der Türkei",
+    "statsExperience": "2+ Jahre Erfahrung",
+    "statsLocation": "Köln & Düsseldorf",
+    "statsArea": "NRW & Deutschland",
     "trustHeading": "Gut zu wissen",
     "trustDrone": "Zertifizierter Drohnenpilot (Kenntnisnachweis A1/A3)",
-    "trustSecond": "Arbeitet bei Bedarf mit zweitem Filmer",
+    "trustTeam": "Zwei erfahrene Filmemacher als Team",
     "trustGear": "Professionelles Kamera- & Audio-Equipment"
   },
   "contact": {
     "title": "Kontakt",
-    "description": "Schreibt mir und erzählt mir von eurem großen Tag. Ich freue mich auf eure Nachricht!",
+    "description": "Schreibt uns und erzählt uns von eurem großen Tag. Wir freuen uns auf eure Nachricht!",
     "form": {
       "name": "Name",
       "namePlaceholder": "Euer Name",
@@ -290,18 +294,18 @@
         "unsure": "Noch unsicher"
       },
       "message": "Nachricht",
-      "messagePlaceholder": "Erzählt mir von eurem Tag, eurer Vision und was euch wichtig ist ...",
+      "messagePlaceholder": "Erzählt uns von eurem Tag, eurer Vision und was euch wichtig ist ...",
       "submit": "Anfrage senden",
       "sending": "Wird gesendet ...",
-      "success": "Danke für eure Nachricht! Ich melde mich schnellstmöglich bei euch.",
-      "error": "Etwas ist schiefgelaufen. Bitte versucht es erneut oder schreibt mir direkt per E-Mail."
+      "success": "Danke für eure Nachricht! Wir melden uns schnellstmöglich bei euch.",
+      "error": "Etwas ist schiefgelaufen. Bitte versucht es erneut oder schreibt uns direkt per E-Mail."
     },
-    "directContact": "Oder schreibt mir direkt",
+    "directContact": "Oder schreibt uns direkt",
     "email": "yunesyousefi35@gmail.com",
     "instagram": "@TODO_instagram"
   },
   "footer": {
-    "tagline": "Hochzeitsvideografie & Fotografie aus Köln",
+    "tagline": "Hochzeitsvideografie & Fotografie — Köln & Düsseldorf",
     "copyright": "© {year} SoulWeddingFilms. Alle Rechte vorbehalten.",
     "impressum": "Impressum",
     "datenschutz": "Datenschutz"

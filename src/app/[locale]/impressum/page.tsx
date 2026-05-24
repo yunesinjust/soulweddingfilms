@@ -29,15 +29,16 @@ function ImpressumDE() {
 
         <h2>Angaben gemäß § 5 DDG</h2>
         <p>
-          Yunes Yousefi
+          Yunes Nasr & Hesam Shahbazi
           <br />
-          SoulWeddingFilms
+          SoulWeddingFilms GbR
+          <br />
+          (Gesellschaft bürgerlichen Rechts)
           <br />
           Hochzeitsvideografie & Fotografie
         </p>
         <p>
-          {/* TODO: Straße und Hausnummer ergänzen */}
-          Köln, Nordrhein-Westfalen
+          Köln & Düsseldorf, Nordrhein-Westfalen
           <br />
           Deutschland
         </p>
@@ -47,11 +48,18 @@ function ImpressumDE() {
           E-Mail: yunesyousefi35@gmail.com
         </p>
 
+        <h2>Vertretungsberechtigte Gesellschafter</h2>
+        <p>
+          Yunes Nasr
+          <br />
+          Hesam Shahbazi
+        </p>
+
         <h2>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h2>
         <p>
-          Yunes Yousefi
+          Yunes Nasr & Hesam Shahbazi
           <br />
-          Köln, Deutschland
+          Köln & Düsseldorf, Deutschland
         </p>
 
         <h2>EU-Streitschlichtung</h2>
@@ -133,8 +141,9 @@ function ImpressumDE() {
         <h2>Bildnachweis</h2>
         <p>
           Alle auf dieser Website gezeigten Fotos und Videos wurden von Yunes
-          Yousefi / SoulWeddingFilms erstellt und unterliegen dem Urheberrecht.
-          Eine Nutzung ohne ausdrückliche Genehmigung ist nicht gestattet.
+          Nasr & Hesam Shahbazi / SoulWeddingFilms GbR erstellt und unterliegen
+          dem Urheberrecht. Eine Nutzung ohne ausdrückliche Genehmigung ist
+          nicht gestattet.
         </p>
       </div>
     </section>
@@ -151,15 +160,16 @@ function ImpressumEN() {
 
         <h2>Information pursuant to § 5 DDG</h2>
         <p>
-          Yunes Yousefi
+          Yunes Nasr & Hesam Shahbazi
           <br />
-          SoulWeddingFilms
+          SoulWeddingFilms GbR
+          <br />
+          (Gesellschaft bürgerlichen Rechts)
           <br />
           Wedding Videography & Photography
         </p>
         <p>
-          {/* TODO: Add street address */}
-          Cologne, North Rhine-Westphalia
+          Cologne & Düsseldorf, North Rhine-Westphalia
           <br />
           Germany
         </p>
@@ -169,11 +179,18 @@ function ImpressumEN() {
           Email: yunesyousefi35@gmail.com
         </p>
 
+        <h2>Authorized Representatives</h2>
+        <p>
+          Yunes Nasr
+          <br />
+          Hesam Shahbazi
+        </p>
+
         <h2>Responsible for content pursuant to § 18 (2) MStV</h2>
         <p>
-          Yunes Yousefi
+          Yunes Nasr & Hesam Shahbazi
           <br />
-          Cologne, Germany
+          Cologne & Düsseldorf, Germany
         </p>
 
         <h2>EU Dispute Resolution</h2>
@@ -233,8 +250,8 @@ function ImpressumEN() {
         </p>
         <p>
           All photos and videos shown on this website were created by Yunes
-          Yousefi / SoulWeddingFilms and are protected by copyright. Use
-          without express permission is not permitted.
+          Nasr & Hesam Shahbazi / SoulWeddingFilms GbR and are protected by
+          copyright. Use without express permission is not permitted.
         </p>
       </div>
     </section>
