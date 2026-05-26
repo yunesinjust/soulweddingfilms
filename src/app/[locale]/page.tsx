@@ -60,7 +60,7 @@ function HomeContent() {
           <div className="mt-8">
             <Link
               href="/portfolio"
-              className="inline-block border border-cream/80 text-cream px-8 py-3 text-sm tracking-widest uppercase hover:bg-cream hover:text-charcoal transition-all duration-300"
+              className="inline-block bg-warm text-cream px-8 py-3 text-sm tracking-widest uppercase hover:bg-warm-dark transition-all duration-300"
             >
               {t("hero.cta")}
             </Link>

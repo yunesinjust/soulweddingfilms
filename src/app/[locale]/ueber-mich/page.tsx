@@ -25,120 +25,90 @@ export default async function AboutPage({ params }: Props) {
 function AboutContent() {
   const t = useTranslations("about");
 
-  const stats = [
-    { value: t("statsWeddings") },
-    { value: t("statsExperience") },
-    { value: t("statsLocation") },
-    { value: t("statsArea") },
-  ];
-
   return (
-    <section className="pt-28 pb-24 md:pb-32">
+    <section className="pt-32 pb-24 md:pb-32">
       <div className="max-w-7xl mx-auto px-6 lg:px-12">
-        {/* Team Hero — inspired by reference image */}
-        <div className="bg-charcoal rounded-sm overflow-hidden mb-24">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-0">
-            {/* Hesam — left */}
-            <FadeIn>
-              <div className="relative aspect-[3/4] md:aspect-auto md:h-full overflow-hidden">
+        {/* Section 1 — Hero text */}
+        <div className="max-w-3xl mx-auto text-center mb-32 md:mb-40">
+          <FadeIn>
+            <h1 className="font-serif text-4xl md:text-6xl lg:text-7xl text-charcoal font-light tracking-wide mb-10">
+              {t("heading")}
+            </h1>
+          </FadeIn>
+          <FadeIn delay={200}>
+            <p className="text-charcoal/70 text-lg md:text-xl leading-relaxed">
+              {t("bio")}
+            </p>
+          </FadeIn>
+        </div>
+
+        {/* Section 2 — Two column team */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-16 md:gap-20 mb-32 md:mb-40">
+          {/* Hesam */}
+          <FadeIn>
+            <div>
+              <div className="relative aspect-[3/4] overflow-hidden mb-8">
                 <Image
                   src="/images/about/hesam.PNG"
                   alt="Hesam Shahbazi"
                   fill
-                  className="object-cover"
+                  className="object-cover grayscale"
                 />
-                <div className="absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-charcoal/90 to-transparent">
-                  <p className="font-serif text-xl text-cream">{t("hesam")}</p>
-                  <p className="text-sm text-cream/50">{t("hesamLocation")}</p>
-                </div>
               </div>
-            </FadeIn>
+              <h2 className="font-serif text-2xl md:text-3xl text-charcoal mb-4">
+                {t("hesamName")}
+              </h2>
+              <p className="text-charcoal/60 text-lg leading-relaxed">
+                {t("hesamBio")}
+              </p>
+            </div>
+          </FadeIn>
 
-            {/* Center text */}
-            <FadeIn delay={200}>
-              <div className="flex flex-col items-center justify-center text-center px-8 py-16 md:py-0">
-                <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl text-cream font-light leading-tight mb-8">
-                  {t("teamHeading")}
-                </h1>
-                <p className="text-cream/60 text-sm md:text-base leading-relaxed max-w-xs">
-                  {t("teamSubtext")}
-                </p>
-              </div>
-            </FadeIn>
-
-            {/* Yunes — right */}
-            <FadeIn delay={400}>
-              <div className="relative aspect-[3/4] md:aspect-auto md:h-full overflow-hidden">
+          {/* Yunes */}
+          <FadeIn delay={200}>
+            <div>
+              <div className="relative aspect-[3/4] overflow-hidden mb-8">
                 <Image
                   src="/images/about/yunes.jpg"
                   alt="Yunes Nasr"
                   fill
-                  className="object-cover"
+                  className="object-cover grayscale"
                 />
-                <div className="absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-charcoal/90 to-transparent">
-                  <p className="font-serif text-xl text-cream">{t("yunes")}</p>
-                  <p className="text-sm text-cream/50">{t("yunesLocation")}</p>
-                </div>
               </div>
-            </FadeIn>
-          </div>
+              <h2 className="font-serif text-2xl md:text-3xl text-charcoal mb-4">
+                {t("yunesName")}
+              </h2>
+              <p className="text-charcoal/60 text-lg leading-relaxed">
+                {t("yunesBio")}
+              </p>
+            </div>
+          </FadeIn>
         </div>
 
-        {/* Stats */}
+        {/* Section 3 — Stats bar */}
         <FadeIn>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 py-16 border-y border-charcoal/10 mb-24">
-            {stats.map((stat) => (
-              <div key={stat.value} className="text-center">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 py-16 border-y border-charcoal/10 mb-32 md:mb-40">
+            {[
+              t("statsWeddings"),
+              t("statsArea"),
+              t("statsLocation"),
+              t("statsRegion"),
+            ].map((stat) => (
+              <div key={stat} className="text-center">
                 <p className="font-serif text-xl md:text-2xl text-charcoal">
-                  {stat.value}
+                  {stat}
                 </p>
               </div>
             ))}
           </div>
         </FadeIn>
 
-        {/* Philosophy */}
-        <div className="max-w-3xl mx-auto mb-24">
-          <FadeIn>
-            <h2 className="font-serif text-3xl md:text-4xl text-charcoal mb-6 text-center">
-              {t("philosophyHeading")}
-            </h2>
-          </FadeIn>
-          <FadeIn delay={200}>
-            <p className="text-charcoal/70 text-lg leading-relaxed text-center">
-              {t("philosophy")}
-            </p>
-          </FadeIn>
-        </div>
-
-        {/* Trust Signals */}
+        {/* Section 4 — Philosophy quote */}
         <FadeIn>
-          <div className="bg-white/50 border border-charcoal/10 p-10 md:p-14 max-w-3xl mx-auto">
-            <h3 className="font-serif text-2xl text-charcoal mb-8 text-center">
-              {t("trustHeading")}
-            </h3>
-            <div className="space-y-4">
-              {[t("trustDrone"), t("trustTeam"), t("trustGear")].map(
-                (item) => (
-                  <div key={item} className="flex items-start gap-4">
-                    <svg
-                      className="w-5 h-5 text-warm mt-0.5 shrink-0"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      stroke="currentColor"
-                      strokeWidth={2}
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
-                      />
-                    </svg>
-                    <span className="text-charcoal/70">{item}</span>
-                  </div>
-                )
-              )}
-            </div>
+          <div className="max-w-4xl mx-auto text-center py-8">
+            <p className="font-serif text-4xl md:text-6xl lg:text-7xl text-charcoal/20 font-light italic tracking-wide">
+              {t("quote")}
+            </p>
           </div>
         </FadeIn>
       </div>
