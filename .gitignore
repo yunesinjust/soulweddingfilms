@@ -37,9 +37,6 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
-# large video files (host externally)
-public/videos/*.mp4
-
 # raw source portfolio (not for deployment)
 Wedding Portfolio/
 
