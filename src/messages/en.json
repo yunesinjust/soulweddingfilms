@@ -175,21 +175,21 @@
         "couple": "Burak & Su",
         "location": "Turkey",
         "year": "2023",
-        "video": "/videos/burak su 2.mp4"
+        "video": "/videos/burak-su.mp4"
       },
       {
         "slug": "eylul-mert",
         "couple": "Eylül & Mert",
         "location": "Turkey",
         "year": "2023",
-        "video": "/videos/eylul mert.mp4"
+        "video": "/videos/eylul-mert.mp4"
       },
       {
         "slug": "sibel-soner",
         "couple": "Sibel & Soner",
         "location": "Turkey",
         "year": "2023",
-        "video": "/videos/sibel sonermp4.mp4"
+        "video": "/videos/sibel-soner.mp4"
       }
     ]
   },

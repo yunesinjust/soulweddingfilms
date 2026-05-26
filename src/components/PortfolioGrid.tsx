@@ -214,8 +214,10 @@ export default function PortfolioGrid() {
             </div>
 
             <video
+              key={selectedFilm.slug}
               controls
               autoPlay
+              playsInline
               className="w-full aspect-video bg-black"
               src={selectedFilm.video}
             >
