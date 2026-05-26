@@ -31,7 +31,7 @@ function AboutContent() {
         {/* Section 1 — Hero text */}
         <div className="max-w-3xl mx-auto text-center mb-32 md:mb-40">
           <FadeIn>
-            <h1 className="font-serif text-4xl md:text-6xl lg:text-7xl text-charcoal font-light tracking-wide mb-10">
+            <h1 className="font-serif text-[clamp(1.75rem,5vw,4.5rem)] text-charcoal font-light tracking-wide whitespace-nowrap mb-10">
               {t("heading")}
             </h1>
           </FadeIn>

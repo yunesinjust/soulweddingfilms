@@ -35,7 +35,7 @@
       {
         "slug": "sofia-und-luca",
         "couple": "Sofia & Luca",
-        "location": "Izmir",
+        "location": "Türkei",
         "year": "2023",
         "coverImage": "/images/portfolio/couple1/653615956_18095577353072570_7667656562791677331_n.jpg",
         "description": "Eine traumhafte Hochzeit in der wunderschönen Küstenstadt Izmir.",
@@ -53,7 +53,7 @@
       {
         "slug": "mia-und-noah",
         "couple": "Mia & Noah",
-        "location": "Istanbul",
+        "location": "Türkei",
         "year": "2024",
         "coverImage": "/images/portfolio/couple2/655232474_18100197164501104_1742626033673695152_n.jpg",
         "description": "Romantische Hochzeit in der faszinierenden Metropole Istanbul.",
@@ -70,7 +70,7 @@
       {
         "slug": "leila-und-cem",
         "couple": "Leila & Cem",
-        "location": "Izmir",
+        "location": "Türkei",
         "year": "2023",
         "coverImage": "/images/portfolio/couple3/SaveVid.Net_649607898_18067170428650169_7273847145288097803_n.jpg",
         "description": "Eine wunderschöne Feier voller Liebe und Tradition in Izmir.",
@@ -89,7 +89,7 @@
       {
         "slug": "sara-und-ali",
         "couple": "Sara & Ali",
-        "location": "Izmir",
+        "location": "Türkei",
         "year": "2024",
         "coverImage": "/images/portfolio/couple4/SaveVid.Net_649738041_18102883505494945_2060630682092193998_n.jpg",
         "description": "Elegante Sommerhochzeit mit atemberaubendem Blick über Izmir.",
@@ -107,7 +107,7 @@
       {
         "slug": "hana-und-kerem",
         "couple": "Hana & Kerem",
-        "location": "Istanbul",
+        "location": "Türkei",
         "year": "2023",
         "coverImage": "/images/portfolio/couple5/SaveVid.Net_648928689_17988956765777760_4258246177321032585_n.jpg",
         "description": "Magische Hochzeit in Istanbul — voller Emotionen und unvergesslicher Momente.",
@@ -127,7 +127,7 @@
       {
         "slug": "nora-und-yusuf",
         "couple": "Nora & Yusuf",
-        "location": "Izmir",
+        "location": "Türkei",
         "year": "2024",
         "coverImage": "/images/portfolio/couple7/SaveVid.Net_650055334_18038564036773796_8791427131723365248_n.jpg",
         "description": "Intime und herzliche Feier in der sonnigen Ägäis.",
@@ -146,7 +146,7 @@
       {
         "slug": "lena-und-baran",
         "couple": "Lena & Baran",
-        "location": "Izmir",
+        "location": "Türkei",
         "year": "2023",
         "coverImage": "/images/portfolio/couple8/SaveVid.Net_648754418_17982286670972941_3820716768286744268_n.jpg",
         "description": "Unvergessliche Hochzeit mit wunderschönem Licht und echten Emotionen.",
@@ -258,11 +258,11 @@
   "about": {
     "title": "Über uns",
     "heading": "Wir sind Yunes & Hesam",
-    "bio": "Wir sind Yunes und Hesam — zwei Filmemacher, die seit 2021 Hochzeiten in der Türkei und Deutschland begleiten. In über 65 Hochzeiten haben wir eines gelernt: Die schönsten Momente plant man nicht. Man muss nur bereit sein, sie einzufangen. Wenn ihr euren Film in zehn Jahren wieder schaut, soll es sich genauso anfühlen wie an dem Tag selbst. Nicht nur Bilder. Das Gefühl. Die Seele des Moments.",
+    "bio": "Hey, wir sind Yunes und Hesam — zwei Jungs aus Köln und Düsseldorf, die seit 2021 Hochzeiten in der Türkei und Deutschland begleiten. Über 65 Hochzeiten später wissen wir eines ganz sicher: Die schönsten Momente plant man nicht. Man muss nur da sein und bereit sein, sie einzufangen. Wenn ihr euren Film in zehn Jahren wieder anschaut, soll er sich genauso anfühlen wie an dem Tag selbst. Nicht nur Bilder. Das Gefühl. Die Gänsehaut. Die Seele des Moments.",
     "hesamName": "Hesam Shahbazi",
-    "hesamBio": "Hesam bringt die Energie. Er spürt den Raum, die Menschen, die Stimmung — und übersetzt das in Bilder die lebendig bleiben.",
+    "hesamBio": "Hesam bringt die Energie mit. Er spürt den Raum, die Menschen, die Stimmung — und übersetzt das in Bilder, die lebendig bleiben. Wenn irgendwo gelacht oder geweint wird, ist er schon da.",
     "yunesName": "Yunes Nasr",
-    "yunesBio": "Yunes ist der stille Beobachter. Er findet die Momente bevor sie verschwinden — ein Blick, eine Träne, ein Lachen das man nicht erzwingen kann.",
+    "yunesBio": "Yunes ist der stille Beobachter. Er findet die Momente, bevor sie verschwinden — ein Blick, eine Träne, ein Lachen, das man nicht erzwingen kann. Er sieht die Dinge, die andere übersehen.",
     "statsWeddings": "65+ Hochzeiten",
     "statsArea": "Türkei & Deutschland",
     "statsLocation": "Köln & Düsseldorf",
